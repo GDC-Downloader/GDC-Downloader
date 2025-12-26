@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jVRtfuoQPE8=",
+  "dgSpecHash": "dVBu5iZVOE0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\azmeh\\Desktop\\Project\\Tcga Downloader\\GDC Downloader\\TcgaDownloader\\TcgaDownloader.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\project\\c#\\Manifest-Downloader\\TcgaDownloader\\TcgaDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamid\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\hamid\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\hamid\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\hamid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

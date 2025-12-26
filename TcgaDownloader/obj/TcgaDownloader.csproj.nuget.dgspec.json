@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\azmeh\\Desktop\\Project\\Tcga Downloader\\GDC Downloader\\TcgaDownloader\\TcgaDownloader.csproj": {}
+    "D:\\project\\c#\\Manifest-Downloader\\TcgaDownloader\\TcgaDownloader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\azmeh\\Desktop\\Project\\Tcga Downloader\\GDC Downloader\\TcgaDownloader\\TcgaDownloader.csproj": {
+    "D:\\project\\c#\\Manifest-Downloader\\TcgaDownloader\\TcgaDownloader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\azmeh\\Desktop\\Project\\Tcga Downloader\\GDC Downloader\\TcgaDownloader\\TcgaDownloader.csproj",
+        "projectUniqueName": "D:\\project\\c#\\Manifest-Downloader\\TcgaDownloader\\TcgaDownloader.csproj",
         "projectName": "TcgaDownloader",
-        "projectPath": "C:\\Users\\azmeh\\Desktop\\Project\\Tcga Downloader\\GDC Downloader\\TcgaDownloader\\TcgaDownloader.csproj",
-        "packagesPath": "C:\\Users\\azmeh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\azmeh\\Desktop\\Project\\Tcga Downloader\\GDC Downloader\\TcgaDownloader\\obj\\",
+        "projectPath": "D:\\project\\c#\\Manifest-Downloader\\TcgaDownloader\\TcgaDownloader.csproj",
+        "packagesPath": "C:\\Users\\hamid\\.nuget\\packages\\",
+        "outputPath": "D:\\project\\c#\\Manifest-Downloader\\TcgaDownloader\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\azmeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hamid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0-windows7.0": {
@@ -60,6 +60,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.11, 9.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[9.0.11, 9.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.11, 9.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.11, 9.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -68,7 +86,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
