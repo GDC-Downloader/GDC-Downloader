@@ -1,0 +1,6 @@
+D:\My project\Manifest Downloader\GDC-Downloader\Windows App\TcgaDownloader.exe
+D:\My project\Manifest Downloader\GDC-Downloader\Windows App\Tools\gdc-client.exe
+D:\My project\Manifest Downloader\GDC-Downloader\Windows App\TcgaDownloader.dll
+D:\My project\Manifest Downloader\GDC-Downloader\Windows App\TcgaDownloader.deps.json
+D:\My project\Manifest Downloader\GDC-Downloader\Windows App\TcgaDownloader.runtimeconfig.json
+D:\My project\Manifest Downloader\GDC-Downloader\Windows App\TcgaDownloader.pdb
